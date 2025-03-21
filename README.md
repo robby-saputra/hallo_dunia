@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-! Screenshoot halo dunia (image1.PNG)
+! Screenshoot halo dunia (images/01.png)
